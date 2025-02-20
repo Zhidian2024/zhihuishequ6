@@ -29,4 +29,5 @@ Java语言，Mysql数据库，SpringBoot框架 ；支持二开；
 ![extending-a-theme](/09.png)
 ![extending-a-theme](/10.png)
 ![extending-a-theme](/11.png)
-![extending-a-theme](/lianxi.jpeg)
+#### 有兴趣，加V，备注：来源和项目名称
+![extending-a-theme](/lianxi.png)
