@@ -9,7 +9,7 @@
 
 #### 软件架构
 
-Java语言，Mysql数据库，SpringBoot框架 ；支持二开；
+Java语言，Mysql数据库，SpringBoot框架 ；支持二开.
 
 #### 源码合作
 
